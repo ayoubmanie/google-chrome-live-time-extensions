@@ -21,10 +21,15 @@ Three extensions that display **hours**, **minutes**, and **seconds** as browser
    - `seconds-extension/`
 
 ## Structure
+
+```plaintext
 hours-extension/
 ├── icons/
 ├── background.js
 └── manifest.json
+
+(minutes/seconds have identical structure)
+```
 
 *(Same for minutes/seconds)*
 
